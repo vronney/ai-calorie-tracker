@@ -192,7 +192,3 @@ The linked YouTube URL was accessible for metadata but not full transcript extra
 - Storybook releases/docs: https://storybook.js.org/releases and https://storybook.js.org/docs/releases
 - Portion estimation accuracy study (PubMed): https://pubmed.ncbi.nlm.nih.gov/33761165/
 - YouTube link provided by user: https://www.youtube.com/watch?v=p-KM4P-6Hmg
-
-
-## 11) Next action checklist
-If you want to start implementation immediately, follow: `docs/research/getting-started-plan.md`.
